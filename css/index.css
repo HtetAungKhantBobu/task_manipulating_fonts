@@ -1,0 +1,59 @@
+h1#h1no1 {
+    color: #0000FF;
+    border: 1px dotted red;
+}
+
+h1.h1group {
+    color: #42F688;
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tag {
+    font-size: 10px;
+    border-width: 0;
+    border-radius: 12%;
+}
+
+.danger {
+    color: black;
+    background-color: red;
+}
+
+.warning {
+    color: black;
+    background-color: yellow;
+}
+
+.ok {
+    color: green;
+    background-color: red;
+}
+
+.label {
+    font-size: 8px;
+    border-radius: 50% 10% 12% 0%;
+    padding: 2px;
+}
+
+.important {
+    background-color: red;
+}
+
+.good_to_have {
+    background-color: #8686c7;
+}
+
+.not_important {
+    background-color: green;
+}
+
+.smaller{
+    font-weight: 500;
+    font-stretch: extra-expanded;
+}
+
+.wholep{
+    /* font-variant: small-caps; */
+}
